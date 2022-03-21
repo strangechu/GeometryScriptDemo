@@ -1,6 +1,6 @@
 # GeometryScriptDemo
  
-![pic](https://strangechu.com/?p=313)
+![pic](https://i2.wp.com/strangechu.com/wp-content/uploads/2022/03/image-41.png)
  
 A sample project demostrating using Geometry Script Plugin to generate a dynamic stair.
  
